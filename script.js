@@ -14,4 +14,3 @@ const vek = Number(prompt("Jaký je váš věk?"))
 
 
 document.body.innerHTML += "<p>Nejlepší " + jmeno + " má tohoto času právě " + vek + " let.</p>"
-document.body.innerHTML += <p> + jmeno + "," + vek</p>
